@@ -7,12 +7,12 @@ View - index.jsp
 Controller - StudentController.java
 
 На сайте вводятся данные:
-![image](https://github.com/SashaTrue/Laba3/assets/32790158/fddc6080-7f91-4647-a1ff-64acb4ac7131)
+![image](https://github.com/Finesse5/lab3/assets/127689665/3c592cce-d323-4d9c-b969-42762e7aeb80)
 
 
 Из данных создается json строчка
 Эта строчка дессериализуется в POJO объект и так записывается в файл на сервере 
 
 И выводятся в табличку под формой ввода
-![image](https://github.com/SashaTrue/Laba3/assets/32790158/ef83fa8e-daae-4b77-acf5-8a7394af9d36)
+![image](https://github.com/Finesse5/lab3/assets/127689665/80e55d03-049e-4f5b-a9a4-a814279d186d)
 
